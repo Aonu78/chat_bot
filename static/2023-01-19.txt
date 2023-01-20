@@ -1,0 +1,12 @@
+{'what is your name': 'You can call me ssebowa chatbot.'}
+{'what is your name': "I'm ssebowa chatbot!"}
+{'map': '1 : A map is a symbolic depiction emphasizing relationships between elements of some space, such as objects, regions, or themes. Many maps are static, fixed to paper or some other durable medium, while others are dynamic or interactive. Although most commonly used to depict geography, maps may represent any space, real or fictional, without regard to context or scale, such as in brain mapping, DNA mapping, or computer network topology mapping. The space being mapped may be two dimensional, such as the surface of the earth, three dimensional, such as the interior of the earth, or even more abstract spaces of any dimension, such as arise in modeling phenomena having many independent variables. Although the earliest maps known are of the heavens, geographic maps of territory have a very long tradition and exist from ancient times. The word "map" comes from the medieval Latin: Mappa mundi, wherein mappa meant \'napkin\' or \'cloth\' and mundi \'the world\'.\n2 : Map A symbolic depiction emphasizing relationships between elements of some space, such as objects...\n3 : Maximum a posteriori estimation An estimate of an unknown quantity, that equals the mode of the posterior distribution.'}
+{'what is google': '1 : Google Category\n2 : Outline of Google - The following outline is provided as an overview of and topical guide to Google: Google is an American multinational technology company specializing in internet-related services and products that include online advertising technologies, search, cloud computing, software, and hardware.\n3 : History of Google - Google was officially launched in 1998 by Larry Page and Sergey Brin to market Google Search, which has become the most used web-based search engine.'}
+{'hi': 'Hi'}
+{'what is google': '1 : Google Category\n2 : Outline of Google - The following outline is provided as an overview of and topical guide to Google: Google is an American multinational technology company specializing in internet-related services and products that include online advertising technologies, search, cloud computing, software, and hardware.\n3 : History of Google - Google was officially launched in 1998 by Larry Page and Sergey Brin to market Google Search, which has become the most used web-based search engine.'}
+{'hi': 'Hello'}
+{'hi': 'Hello'}
+{'hi': 'Hi'}
+{'hi': 'Hello'}
+{'hi': 'Hi there'}
+{'hi': 'Hello'}

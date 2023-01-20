@@ -1,0 +1,32 @@
+{'hi': 'Hi'}
+{'hi': 'Hi'}
+{'hello': 'Hello'}
+{'hello': 'Hello'}
+{'hello': 'Hello'}
+{'hello': 'Hello'}
+{'hello': 'Hello'}
+{'hello': 'Hello'}
+{'hello': 'Hi'}
+{'hello': 'Hi there'}
+{'hello': 'Hi'}
+{'hello': 'Hi'}
+{'hello': 'Hello'}
+{'hello': 'Hello'}
+{'hello': 'Hello'}
+{'favicon.ico': "1 : A favicon, also known as a shortcut icon, website icon, tab icon, URL icon, or bookmark icon, is a file containing one or more small icons, associated with a particular website or web page. A web designer can create such an icon and upload it to a website by several means, and graphical web browsers will then make use of it. Browsers that provide favicon support typically display a page's favicon in the browser's address bar and next to the page's name in a list of bookmarks. Browsers that support a tabbed document interface typically show a page's favicon next to the page's title on the tab, and site-specific browsers use the favicon as a desktop icon.\n2 : Computer icons\n3 : Web design"}
+{'hello': 'Hi'}
+{'favicon.ico': "1 : A favicon, also known as a shortcut icon, website icon, tab icon, URL icon, or bookmark icon, is a file containing one or more small icons, associated with a particular website or web page. A web designer can create such an icon and upload it to a website by several means, and graphical web browsers will then make use of it. Browsers that provide favicon support typically display a page's favicon in the browser's address bar and next to the page's name in a list of bookmarks. Browsers that support a tabbed document interface typically show a page's favicon next to the page's title on the tab, and site-specific browsers use the favicon as a desktop icon.\n2 : Computer icons\n3 : Web design"}
+{'hello': 'Hi there'}
+{'hello': 'Hello'}
+{'hello': 'Hi'}
+{'hello': 'Hi'}
+{'hello': 'Hello'}
+{'hello': 'Hi'}
+{'hello': 'Hi'}
+{'hello': 'Hello'}
+{'hello': 'Hi there'}
+{'hello': 'Hi there'}
+{'hello': 'Hi there'}
+{'hello': 'Hello'}
+{'hello': 'Hello'}
+{'hello': 'Hello'}
