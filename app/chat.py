@@ -18,7 +18,10 @@ def chat(query):
             final = ""
     if final == "":
         results = ddg_answers(query, related=True)
-        final = ("1 : "+results[0]["text"]+"\n"+"2 : "+results[1]["text"]+"\n"+"3 : "+results[2]["text"])
+        if len(results) < 1:
+            final = "Please remodify your query..."
+        else:            
+            final = ("1 : "+results[0]["text"]+"\n"+"2 : "+results[1]["text"]+"\n"+"3 : "+results[2]["text"])
 
     dictionary[query] = final
     print(dictionary)
