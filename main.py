@@ -32,7 +32,7 @@ async def value_error_exception_handler(request: Request, exc: ValueError):
         status_code=500,
         content={"message": str(exc)},
     )
-@app.get('/chat/{input}')
+@app.get('/{input}')
 async def read_chat(input:str):
     value = chat(input)
     print(value)
