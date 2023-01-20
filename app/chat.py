@@ -24,8 +24,5 @@ def chat(query):
             final = ("1 : "+results[0]["text"]+"\n"+"2 : "+results[1]["text"]+"\n"+"3 : "+results[2]["text"])
 
     dictionary[query] = final
-    print(dictionary)
-    f = open(f"static/{date.today()}.txt", 'a')
-    f.write(str(dictionary)+"\n")
     print(final)
     return {"generated_text":final}
