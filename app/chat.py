@@ -10,7 +10,7 @@ data = data['intents']
 
 os.path.join(f"static/{date.today()}.txt")
 API_URL = "https://api-inference.huggingface.co/models/Qiliang/bart-large-cnn-samsum-ChatGPT_v3"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer access_token"}
 
 def querychat(payload):
 	response = requests.post(API_URL, headers=headers, json=payload)
